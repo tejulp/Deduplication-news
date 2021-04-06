@@ -1,0 +1,9 @@
+numpy
+pandas
+nltk
+gensim==3.8.1
+sklearn
+html2text
+bs4
+requests
+string
